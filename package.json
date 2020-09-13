@@ -1,0 +1,18 @@
+{
+  "name": "playtox-game",
+  "version": "1.0.0",
+  "description": "search by input",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Savva",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.7"
+  },
+  "dependencies": {
+    "mime-types": "^2.1.26"
+  }
+}
