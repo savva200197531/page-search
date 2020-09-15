@@ -28,12 +28,6 @@ h1, h2, h3, h4, h5, h6, p, li, ul, a, span {
     font-weight: 500;
 }
 
-.search__input:focus {
-    border-radius: 4px;
-    border-color: rgba(7, 97, 248, 1);
-    transition: 0.3s ease;
-}
-
 .search__button {
     margin-left: 10px;
     background: transparent;
@@ -117,11 +111,7 @@ h1, h2, h3, h4, h5, h6, p, li, ul, a, span {
     box-shadow: 10px 10px 10px -8px rgba(0, 0, 0, 0.23);
 }
 
-.text-red {
-    background: red;
-}
-
-.highlighter {
+.highlight {
     background: red;
 }
 
